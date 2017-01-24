@@ -1,6 +1,6 @@
 {
   "name": "react-stickyfill",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "React wrapper for Stickyfill library",
   "main": "lib/index.js",
   "scripts": {
@@ -53,7 +53,7 @@
     "react-dom": "^15.2.1"
   },
   "dependencies": {
-    "Stickyfill": "https://github.com/remedyhealth/stickyfill.git#develop"
+    "Stickyfill": "https://github.com/remedyhealth/Stickyfill.git"
   },
   "peerDependencies": {
     "react": "^15.2.1"

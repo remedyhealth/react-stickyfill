@@ -5,7 +5,7 @@ import 'Stickyfill';
 
 const Sticker = React.createClass({
 	propTypes: {
-	    media: React.PropTypes.string,
+    media: React.PropTypes.string,
 		children: React.PropTypes.oneOfType([
 			React.PropTypes.element,
 			React.PropTypes.func
