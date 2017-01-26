@@ -54,7 +54,7 @@
     "react": "^15.2.1"
   },
   "dependencies": {
-    "Stickyfill": "https://github.com/remedyhealth/stickyfill.git"
+    "@rhm/stickyfill": "1.1.6"
   },
   "peerDependencies": {
     "react": "^15.2.1"

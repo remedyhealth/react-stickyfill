@@ -1,7 +1,7 @@
 /*global Stickyfill */
 import React from "react";
 import ReactDOM from "react-dom";
-import 'Stickyfill';
+import '@rhm/stickyfill';
 
 const Sticker = React.createClass({
 	propTypes: {
