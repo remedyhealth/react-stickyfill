@@ -50,10 +50,11 @@
     "eslint-plugin-react": "^6.0.0",
     "postcss-loader": "^0.9.1",
     "webpack": "^1.13.1",
-    "react-dom": "^15.2.1"
+    "react-dom": "^15.2.1",
+    "react": "^15.2.1"
   },
   "dependencies": {
-    "Stickyfill": "https://github.com/remedyhealth/Stickyfill.git"
+    "Stickyfill": "https://github.com/remedyhealth/stickyfill.git"
   },
   "peerDependencies": {
     "react": "^15.2.1"
